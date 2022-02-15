@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Isaac Kimaiyo",
+      "titles": [ "Full-stack Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/kimaiyo077",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/isaac_kimaiyo/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "Travis",
+          "class": "devicon-travis-plain",
+          "level": "95"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "90"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain-plain",
+          "level": "85"
+        },
+        {
+          "name": "DigitalOcean",
+          "class": "devicon-digitalocean-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }
